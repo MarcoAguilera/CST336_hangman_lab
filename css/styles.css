@@ -15,6 +15,10 @@
     font-size: 1.8em;
 }
 
+div {
+    text-align: center;
+}
+
 .hint {
     font-size: 0.6em !important;
 }
